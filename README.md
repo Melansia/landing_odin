@@ -17,8 +17,8 @@ however if needed - actual images can be paced in the placeholders, as well as c
 
 Objectives:
 
-- [ ] Build a bear-bone HTML landing page with a Header and Footer
-- [ ] Place 3 main sections inside the body
+- [x] Build a bear-bone HTML landing page with a Header and Footer
+- [x] Place 3 main sections inside the body + a hero section
 - [ ] Align all the pieces inside each section using CSS flex-box
 - [ ] Make sure that color and text elements match the requirements
 
