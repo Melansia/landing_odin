@@ -19,10 +19,10 @@ Objectives:
 
 - [x] Build a bear-bone HTML landing page with a Header and Footer
 - [x] Place 3 main sections inside the body + a hero section
-- [ ] Align all the pieces inside each section using CSS flex-box
+- [x] Align all the pieces inside each section using CSS flex-box
 - [ ] Make sure that color and text elements match the requirements
 
 Bonus objectives
 
-- [ ] Add at least 1 animation
+- [x] Add at least 1 animation
 
